@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
         colorSchemeSeed: Colors.purple
       ),
       home: const CounterScreen()
-    );
-  }
+    );  }
 }
 
